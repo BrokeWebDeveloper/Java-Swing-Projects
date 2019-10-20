@@ -6,7 +6,7 @@ public class UsernameAndPassword?
 		// Making a new instance of JFrame
 		JFrame f=new JFrame("My First Java GUI Application!");
 		// Making a new Instance of JButton
-		JButton b=new JButton("Click Dong.");
+		JButton b=new JButton("Click Please.");
 		// Putting the default size and place of the button to the frame
 		b.setBounds(400, 430, 100, 40);
 		// Adding the JButton to the JFrame
